@@ -1,13 +1,9 @@
 # Sirius-Java-Assessment-prep
 
 ## Problems
+1a. Make a class called review and create a public static method that takes in a double called radius, so that you can find the circumference of a circle. (Circumference Equation: C = 2πr)
 
-0. Create a class named **Runner**. This will be where your main method resides for you to test the following exercises.
-
-1a. Make a class called **PracticeCircle** and create a field `radius` with getter and setter methods, so that you can find the circumference of a circle.
-(Circumference Equation: C = 2πr)
-
-1b. Make a circumference() method which returns a `double` (the circumference). Overload it for `int` and `double` parameter types.
+1b. make the circumference method work with integers and doubles by using method overloading
 
 2. Create a public static method called `total` with two `double` parameters named 'bill' and 'tipPercentage'.
     - Return the final bill (`double`), including tip. (Equation: bill + ((tipPercentage / 100) * bill) = total)
