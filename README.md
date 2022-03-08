@@ -2,7 +2,7 @@
 
 ## Problems
 
-0. Create a class named **Review**. This will be where your main method resides for you to test the following exercises.
+0. Create a class named **Runner**. This will be where your main method resides for you to test the following exercises.
 
 1a. Make a class called **PracticeCircle** and create a field `radius` with getter and setter methods, so that you can find the circumference of a circle.
 (Circumference Equation: C = 2πr)
